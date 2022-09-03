@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammed Al-Amodi
+Hi 👋 My name is Mohammed
 ==================================
 
 Web Developer
@@ -35,7 +35,7 @@ I am a self-motivated and progress-driven web developer with an extensive backgr
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Moe-alamodi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-al-amodi-b0840b158/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/Moe-alamodi" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/GitHub/GitHub-Icon-White-Dark-Background-Logo.wine.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammed-al-amodi-b0840b158/" target="_blank" rel="noreferrer"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Linkedin-Black-and-White-Logo-1024x1024.png" width="32" height="32" /></a></p>
 
 ### Badges
 
